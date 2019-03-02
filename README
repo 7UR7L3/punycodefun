@@ -1,0 +1,10 @@
+http://◮.tk
+
+fiddling with idn's / punycode
+
+punycode domain explorer
+	punycodemapping.js
+		node script to output table of every possible punycode (afaik) mapped to corresponding unicode
+	// output files
+punycodeIDNPrettierUrl.js
+	script to replace a website's history state with the unicode characters rendered because browsers like to make punycode ugly
